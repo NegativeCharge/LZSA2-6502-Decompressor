@@ -52,7 +52,7 @@ SAVE "LZSA2", start, end, entry_point
 \ ******************************************************************
 
 PRINT "------------------------"
-PRINT "ZX0 Decompressor"
+PRINT "   LZSA2 Decompressor   "
 PRINT "------------------------"
 PRINT "CODE size      = ", ~end-start
 PRINT "------------------------"
